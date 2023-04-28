@@ -29,4 +29,4 @@ Deliverables:
 - Recommendations for improving customer experience, increasing sales, and reducing cart abandonment, based on the data analysis and predictive models.
 - Visualizations and dashboards to help the company monitor and track customer behavior and performance metrics.
 
-![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Product%20details.png?raw=true)
+![Logo](https://github.com/JerylLee/ConsumerBehaviourAnalysis-/blob/main/User%20Behavior%20Report.png?raw=true)

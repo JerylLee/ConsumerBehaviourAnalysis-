@@ -28,3 +28,5 @@ Deliverables:
 - User Report Analysis, including insights on customer behavior, cart abandonment, and customer segmentation.
 - Recommendations for improving customer experience, increasing sales, and reducing cart abandonment, based on the data analysis and predictive models.
 - Visualizations and dashboards to help the company monitor and track customer behavior and performance metrics.
+
+![Logo](https://github.com/JerylLee/EcommerceMarketAnalysis/blob/main/Product%20details.png?raw=true)

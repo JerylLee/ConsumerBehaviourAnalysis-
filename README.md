@@ -2,6 +2,7 @@
 
 KOKOLU is a sustainable lifestyle brand that designs and produces sustainable footwear, clothing for consumers around the world.
 http://kokolu.eco
+![Logo](https://cdn.shopify.com/s/files/1/0591/7812/3444/files/WechatIMG43.jpg?v=1646327316)
 
 Business Problem:
 KOKOLU wants to understand their customer's behavior better to improve their sales, customer experience, and marketing strategies. The company is experiencing a high rate of cart abandonment and wants to identify the reasons for this, as well as finding ways to increase customer loyalty and retention.
@@ -29,4 +30,24 @@ Deliverables:
 - Recommendations for improving customer experience, increasing sales, and reducing cart abandonment, based on the data analysis and predictive models.
 - Visualizations and dashboards to help the company monitor and track customer behavior and performance metrics.
 
+User Report Analysis
 ![Logo](https://github.com/JerylLee/ConsumerBehaviourAnalysis-/blob/main/User%20Behavior%20Report.png?raw=true)
+
+Shopping Analysis
+![Logo]( https://github.com/JerylLee/ConsumerBehaviourAnalysis-/blob/main/Customer%20Journey%20.png?raw=true)
+
+![Logo](https://github.com/JerylLee/ConsumerBehaviourAnalysis-/blob/main/SEO%20Optimization.png?raw=true)
+
+![Logo](https://github.com/JerylLee/ConsumerBehaviourAnalysis-/blob/main/Cohort%20Retention%20Analysis.png?raw=true)
+
+![Logo](https://github.com/JerylLee/ConsumerBehaviourAnalysis-/blob/main/Online%20Shopping%20Trends.png?raw=true)
+
+![Logo](https://github.com/JerylLee/ConsumerBehaviourAnalysis-/blob/main/Shopping%20Behavior%20Analysis.png?raw=true)
+
+![Logo](https://github.com/JerylLee/ConsumerBehaviourAnalysis-/blob/main/Purchase%20Process%20Analysis.png?raw=true)
+
+![Logo](https://github.com/JerylLee/ConsumerBehaviourAnalysis-/blob/main/Ads%20strategy.png?raw=true)
+
+
+
+

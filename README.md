@@ -3,7 +3,7 @@
 KOKOLU is a sustainable lifestyle brand that designs and produces sustainable footwear, clothing for consumers around the world.
 http://kokolu.eco
 
-![image](https://cdn.shopify.com/s/files/1/0591/7812/3444/files/WechatIMG43.jpg?v=1646327316) with  <img src="https://cdn.shopify.com/s/files/1/0591/7812/3444/files/WechatIMG43.jpg?v=1646327316" width="100" height="100">
+!<img src="https://cdn.shopify.com/s/files/1/0591/7812/3444/files/WechatIMG43.jpg?v=1646327316" width="100" height="100">
 
 Business Problem:
 KOKOLU wants to understand their customer's behavior better to improve their sales, customer experience, and marketing strategies. The company is experiencing a high rate of cart abandonment and wants to identify the reasons for this, as well as finding ways to increase customer loyalty and retention.
